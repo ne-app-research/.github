@@ -1,4 +1,4 @@
-# Publications And More @ Ne.app
+# Publications And More
 
 This compiles and archives previous research projects et al from I (Amlal El Mahrouss)
 
