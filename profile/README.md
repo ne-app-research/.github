@@ -1,6 +1,6 @@
 # Publications And More
 
-This compiles and archives previous research projects et al from I (Amlal El Mahrouss)
+This compiles and archives previous research projects et al @ Ne.app.
 
 ## Badges:
 
