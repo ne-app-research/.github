@@ -1,6 +1,6 @@
-# Publications And More
+# Ne.app R&D
 
-This compiles and archives previous research projects et al @ Ne.app.
+This compiles and archives previous research projects et al @ Ne.app. R&D arm of Ne.app.
 
 ## Badges:
 
